@@ -1,0 +1,6 @@
+alternating.c:18:6:SYS_DEFEND	16	static
+alternating.c:106:6:SYS_LCD	24	static
+alternating.c:154:6:SYS_WI	48	static
+alternating.c:234:6:DATA_ERROR	24	static
+alternating.c:245:6:SYS_WO	24	static
+alternating.c:254:6:Ptotect	24	static

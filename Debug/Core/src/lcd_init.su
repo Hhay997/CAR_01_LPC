@@ -1,0 +1,6 @@
+lcd_init.c:14:6:LCD_Writ_Bus	24	static
+lcd_init.c:41:6:LCD_WR_DATA8	16	static
+lcd_init.c:52:6:LCD_WR_DATA	16	static
+lcd_init.c:64:6:LCD_WR_REG	16	static
+lcd_init.c:78:6:LCD_Address_Set	24	static
+lcd_init.c:89:6:LCD_Init	8	static

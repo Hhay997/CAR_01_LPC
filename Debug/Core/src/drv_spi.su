@@ -1,0 +1,2 @@
+drv_spi.c:13:15:drv_spi_read_write_byte	24	static
+drv_spi.c:50:6:drv_spi_read_write_string	24	static
